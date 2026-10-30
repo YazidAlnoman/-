@@ -14,5 +14,5 @@ This project is a comprehensive corporate retail data analytics dashboard built 
 * Key performance cards tracking Total Sales and Total Quantity.
 
 ## 📷 Dashboard Preview
-![Retail Sales Analysis Dashboard](images/يزيد_1.png)
+![Retail Sales Analysis Dashboard](Yazid_1.png)
 Retail Sales Analysis dashboard built using Power BI comparing traditional retail stores and discount lounges
